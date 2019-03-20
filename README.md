@@ -1,3 +1,3 @@
 # S2s
 
-Source2service
+Source2service is a cool service
